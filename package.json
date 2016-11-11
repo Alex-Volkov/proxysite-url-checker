@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/Alex-Volkov/proxysite-url-checker"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "App to check and array of urls with different proxies from proxysite.com",
   "main": "proxysite.js",
   "scripts": {
