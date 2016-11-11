@@ -1,0 +1,26 @@
+{
+  "name": "proxy-url-checker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alex-Volkov/proxysite-url-checker"
+  },
+  "version": "1.0.1",
+  "description": "App to check and array of urls with different proxies from proxysite.com",
+  "main": "proxysite.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "stream",
+    "queue",
+    "parallel",
+    "proxy",
+    "anonymous"
+  ],
+  "author": "pauca-verba",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.1.2",
+    "stream-parallel-queue": "^1.0.3"
+  }
+}
